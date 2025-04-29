@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu GitHub! ✌️
 
 ## 💫 Sobre mim:
-💼 Desenvolvedora Backend Jr
+💼 Desenvolvedora Fullstack
 
 ✨ Tecnologias preferidas: Java, Spring Boot e SQL.
 
