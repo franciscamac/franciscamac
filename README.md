@@ -12,6 +12,7 @@
 *    **Sistema Petshop** : Sistema desenvolvido com Spring e Thymeleaf. [ Link para o repositório ]( https://github.com/franciscamac/petshop-teste-pratico )
  *    **API Rest de Transações** : Uma API REST que receba Transações e retornos Estatísticas sob essas transações, desenvolvido em Java. [ Link para o repositório ]( https://github.com/franciscamac/desafio-itau-sprig-boot )
  *  **Site Institucional** : Site institucional em React e TypeScript. [ Link para o repositório ]( https://github.com/franciscamac/alexandrina-barros-advocacia.git )
+ *  **Projeto AWS** : Arquitetura na nuvem escalável, resiliente, seguro e de baixo custo [ Link para o repositório ]( https://github.com/franciscamac/defasio_de_codigo_aws_ec2.git )
 
 ### ⚙️ GitHub Analytics
 
